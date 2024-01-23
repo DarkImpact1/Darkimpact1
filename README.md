@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkimpact1" alt="darkimpact1" /></a> </p>
 
 - 🔭 I’m currently working on *Notepad-Clone Using Python* as well as 
-- 🔭 I’m working on *Django*
+- 🔭 I've done a project based on [Django (Dynamic PortFolio Website)](https://dub.sh/portfolio-by-mohitdwivedi)
 
 - 👯 I’m collaborating on [Upi Menu Generator](https://github.com/raka334/Upimenue)
 
