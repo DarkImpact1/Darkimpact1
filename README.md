@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on *Notepad-Clone Using Python* as well as 
 - 🔭 I've done a project based on [Django (Dynamic PortFolio Website)](https://dub.sh/portfolio-by-mohitdwivedi)
-- 👯 Build a model to classify the review [IMDb Movie Review classifier](https://imdbreviewclassifier-m.streamlit.app/)
+- 👯 Build a model to classify the review [Click here](https://imdbreviewclassifier-m.streamlit.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
