@@ -1,6 +1,6 @@
 <h1 align="center" > Hi ,I am Mohit dwivedi! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> </h1>
 <br>
-<h2 align="center">Aspiring Data Scientist from India</h2> [![](https://visitcount.itsvg.in/api?id=DarkImpact1&icon=8&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">Aspiring Data Scientist from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkimpact1&label=Profile%20views&color=0e75b6&style=flat" alt="darkimpact1" /> </p>
 # 💫 About Me:
@@ -29,6 +29,8 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+ [![](https://visitcount.itsvg.in/api?id=DarkImpact1&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
 
