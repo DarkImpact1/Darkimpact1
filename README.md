@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+# Hi ,I am Mohit dwivedi! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<br>
+<h2 align="center">Aspiring Data Scientist from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkimpact1&label=Profile%20views&color=0e75b6&style=flat" alt="darkimpact1" /> </p>
 
