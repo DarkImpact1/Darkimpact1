@@ -1,5 +1,5 @@
 
-<h1 align="center" > </h1>Hi ,I am Mohit dwivedi! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center" > Hi ,I am Mohit dwivedi! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> </h1>
 <br>
 <h2 align="center">Aspiring Data Scientist from India</h2>
 
