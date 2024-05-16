@@ -3,8 +3,9 @@
 <h2 align="center">Aspiring Data Scientist from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkimpact1&label=Profile%20views&color=0e75b6&style=flat" alt="darkimpact1" /> </p>
+
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on Data Science/Machine Learning/Deep Learning Project<br>🤝 I’m looking for help with MLOPs<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about < Python, Machine Learning, Deep Learning,<br>Model Training, Data Visualisation, Data Analysis><br>
+🔭 I’m currently working on Myself for the role of Data Scientist <br>👯 I’m looking to collaborate on Data Science/Machine Learning/Deep Learning Project<br>🤝 I’m looking for help with MLOPs<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about < Python, Machine Learning, Deep Learning,<br>Model Training, Data Visualisation, Data Analysis><br>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarkImpact1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
