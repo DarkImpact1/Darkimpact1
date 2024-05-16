@@ -1,5 +1,4 @@
 <h1 align="center" > Hi ,I am Mohit dwivedi! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> </h1>
-<br>
 <h2 align="center">Aspiring Data Scientist from India</h2>
 
 # 💫 About Me:                                 <img src="https://komarev.com/ghpvc/?username=darkimpact1&label=Profile%20views&color=0e75b6&style=flat" alt="darkimpact1" /> 
