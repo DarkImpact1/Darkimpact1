@@ -5,7 +5,7 @@
 🔭 I’m currently working on Myself for the role of Data Scientist <br>👯 I’m looking to collaborate on Data Science/Machine Learning/Deep Learning Project<br>🤝 I’m looking for help with MLOPs<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about < Python, Machine Learning, Deep Learning,<br>Model Training, Data Visualisation, Data Analysis><br>
 
 # Projects: 
-<h3>Movie Recommender System <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
+<h3>Movie Recommender System:   <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
 </h3>
 
 
