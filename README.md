@@ -6,7 +6,8 @@
 
 # Projects: 
 <h3>Movie Recommender System </h3> 
-<h2>[Check out](https://mltrainedmodel-mohit-dwivedi.streamlit.app)</h2>
+<h2><a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
+</h2>
 
 
 # 📊 GitHub Stats:
