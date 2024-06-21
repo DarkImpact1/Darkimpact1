@@ -3,7 +3,8 @@
 
 # 💫 About Me:                                 <img src="https://komarev.com/ghpvc/?username=darkimpact1&label=Profile%20views&color=0e75b6&style=flat" alt="darkimpact1" /> 
 🔭 I’m currently working on Myself for the role of Data Scientist <br>👯 I’m looking to collaborate on Data Science/Machine Learning/Deep Learning Project<br>🤝 I’m looking for help with MLOPs<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about < Python, Machine Learning, Deep Learning,<br>Model Training, Data Visualisation, Data Analysis><br>
-<h2>Resume : <a href="https://docs.google.com/document/d/1kKgYwsj205G-8aUnaoj8iN8o315K-eGf/edit?usp=drive_link&ouid=112670077792212222558&rtpof=true&sd=true" style="font-size:20px;" target="_blank"> Click here </a></h2>
+Resume: <a href="https://docs.google.com/document/d/1kKgYwsj205G-8aUnaoj8iN8o315K-eGf/edit?usp=drive_link&ouid=112670077792212222558&rtpof=true&sd=true" target="_blank" style="font-size: 20px; text-decoration: none; color: #007bff;">Click here</a>
+
 
 # Projects: 
 <h3>Movie Recommender System:   <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
