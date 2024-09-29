@@ -5,7 +5,7 @@
 🔭 I’m currently working on Myself for the role of Data Scientist <br>👯 I’m looking to collaborate on Data Science/Machine Learning/Deep Learning Project<br>🤝 I’m looking for help with MLOPs<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about < Python, Machine Learning, Deep Learning,<br>Model Training, Data Visualisation, Data Analysis><br>
 
 ## Resume
-To view my Resume : <a href="https://docs.google.com/document/d/1kKgYwsj205G-8aUnaoj8iN8o315K-eGf/edit?usp=drive_link&ouid=112670077792212222558&rtpof=true&sd=true" target="_blank" style="font-size: 20px; text-decoration: none; color: #007bff;">Click here </a> 
+To view my Resume : <a href="https://drive.google.com/file/d/12-j7yIfVLb_2Q-OoqcT4ItyKv15HvOhC/view" target="_blank" style="font-size: 20px; text-decoration: none; color: #007bff;">Click here </a> 
 
 
 
