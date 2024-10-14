@@ -11,8 +11,9 @@ To view my Resume : <a href="https://drive.google.com/file/d/12-j7yIfVLb_2Q-Ooqc
 
 
 # Projects: 
-<h3>Movie Recommender System:   <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
+<h3>Movie Recommender System: <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
 </h3>
+<h3>Cold Email Generator: <a href="https://cold-email-generator-dmohit13.streamlit.app" style="font-size: 20px;">Click here </a></h3>
 
 
 # 📊 GitHub Stats:
