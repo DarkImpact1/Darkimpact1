@@ -12,11 +12,12 @@ To view my Resume : <a href="https://drive.google.com/file/d/12-j7yIfVLb_2Q-Ooqc
 
 # Projects: 
 <h3>
-  Movie Recommender System (NLP): <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a></h3>br>
-  Cold Email Generator (NLP): <a href="https://cold-email-generator-dmohit13.streamlit.app" style="font-size: 20px;">Click here </a></br>
-  Gesture Volume Control (OpenCV): <a href="https://github.com/DarkImpact1/Gesture-Volume_Control" style="font-size: 20px;">Click here </a></br>
-  Movie Review Classifier (NLP): <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a></h3>br>
+  Movie Recommender System (NLP): <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a><br>
+  Cold Email Generator (NLP): <a href="https://cold-email-generator-dmohit13.streamlit.app" style="font-size: 20px;">Click here </a><br>
+  Gesture Volume Control (OpenCV): <a href="https://github.com/DarkImpact1/Gesture-Volume_Control" style="font-size: 20px;">Click here </a><br>
+  Movie Review Classifier (NLP): <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a>
 </h3>
+
 
 
 # 📊 GitHub Stats:
