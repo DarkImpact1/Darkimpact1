@@ -17,6 +17,7 @@
 
 # Projects: 
 <h3>
+  Medi Assist (AI & ML) : <a href="https://hackai.streamlit.app" style="font-size: 20px;">Click here </a><br>
   Movie Recommender System (NLP): <a href="https://mltrainedmodel-mohit-dwivedi.streamlit.app" style="font-size: 20px;">Click here </a><br>
   Cold Email Generator (NLP): <a href="https://cold-email-generator-dmohit13.streamlit.app" style="font-size: 20px;">Click here </a><br>
   Gesture Volume Control (OpenCV): <a href="https://github.com/DarkImpact1/Gesture-Volume_Control" style="font-size: 20px;">Click here </a><br>
