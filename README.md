@@ -14,7 +14,8 @@
 ### Download and Run It
 [Download the file](https://drive.google.com/uc?export=download&id=17R9PNgpB0lwiPz3gTZAOSSwHuyAZJEkV) 
 <br>
-[Download PacMan](https://1drv.ms/u/c/83170563985f1ee2/EeNkCW0U2odEjH4CATrW-X0BX9oXcLR1nBy0nv4RmCtcKQ?e=ekePV3)
+[📥 Download File Directly](https://onedrive.live.com/download?resid=83170563985F1EE2!s6d0964e3da1444878c7e02013ad6f97d)
+
 
 
 # Projects: 
