@@ -12,7 +12,7 @@
 </a>
 
 ### Download and Run It
-[Download game.vbs](https://drive.google.com/uc?export=download&id=17R9PNgpB0lwiPz3gTZAOSSwHuyAZJEkV&confirm=no_antivirus)
+[Download game.vbs](https://drive.google.com/uc?export=download&id=17R9PNgpB0lwiPz3gTZAOSSwHuyAZJEkV)
 
 # Projects: 
 <h3>
