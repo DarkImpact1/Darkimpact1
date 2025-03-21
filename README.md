@@ -12,8 +12,9 @@
 </a>
 
 ### Download and Run It
-[Download the file](https://drive.google.com/uc?export=download&id=17R9PNgpB0lwiPz3gTZAOSSwHuyAZJEkV)
-[Download the file from OneDrive](https://1drv.ms/u/c/83170563985f1ee2/EeNkCW0U2odEjH4CATrW-X0BX9oXcLR1nBy0nv4RmCtcKQ?e=ekePV3) (Click "Download" on the page)
+[Download the file](https://drive.google.com/uc?export=download&id=17R9PNgpB0lwiPz3gTZAOSSwHuyAZJEkV) 
+<br>
+[Download PacMan](https://1drv.ms/u/c/83170563985f1ee2/EeNkCW0U2odEjH4CATrW-X0BX9oXcLR1nBy0nv4RmCtcKQ?e=ekePV3)
 
 
 # Projects: 
