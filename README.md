@@ -11,8 +11,12 @@
    Click here
 </a>
 
-### download and run it
-<a href="https://raw.githubusercontent.com/DarkImpact1/Data-Structure-Algorithm/main/game.vbs" download>pacman</a>
+### Download and Run It
+
+Click the link below to download the file:
+
+<a href="https://raw.githubusercontent.com/DarkImpact1/Data-Structure-Algorithm/main/game.vbs" download>Download Pacman</a>
+
 
 
 
