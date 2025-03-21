@@ -15,7 +15,7 @@
 
 Click the link below to download the file:
 
-<a href="https://raw.githubusercontent.com/DarkImpact1/Data-Structure-Algorithm/main/game.vbs" download>Download Pacman</a>
+<a href="https://raw.githubusercontent.com/DarkImpact1/Data-Structure-Algorithm/main/game.vbs" download="game.vbs">Download Pacman</a>
 
 
 
